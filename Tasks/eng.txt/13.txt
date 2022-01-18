@@ -1,0 +1,17 @@
+Task 1.
+Implement the Fraction class. You need to store the numerator
+and denominator as member variables. Implement
+member functions for entering data into member variables,
+to perform arithmetic operations (addition,
+subtraction, multiplication, division, etc.).
+
+Task 2.
+Create a phone book app.
+It is necessary to store subscriber data (full name, home phone, work phone, mobile phone, additional
+contact information) inside the corresponding class.
+Populate the class with member variables, member functions, constructors, inline member functions,
+use initializers, implement a destructor.
+Be sure to dynamically allocate memory for the full name.
+Allow the user to add
+new subscribers, delete subscribers, search for subscribers
+by full name, show all subscribers. 

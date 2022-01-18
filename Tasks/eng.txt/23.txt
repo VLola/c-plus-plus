@@ -1,0 +1,4 @@
+Create custom smart pointer classes.
+One of the classes should repeat the functionality of the standard unique_ptr class, 
+and the other shared_ptr.
+Write code to test your classes.

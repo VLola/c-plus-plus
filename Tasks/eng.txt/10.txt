@@ -1,0 +1,37 @@
+Topic: Pointers.
+
+Task 1:
+Using two pointers to an array of integers, copy one array to another. 
+Use pointer arithmetic to move through the array in the program, 
+as well as the dereference operator.
+
+Task 2:
+Using a pointer to an array of integers, 
+change the order of the elements of the array to the opposite. 
+Use pointer arithmetic in the program to move through the array, 
+as well as the dereference operator.
+
+Task 3:
+Using two pointers to arrays of integers, 
+copy one array to another so that the elements in the second array are in reverse order. 
+Use pointer arithmetic in the program to move through the array, 
+as well as the dereference operator.
+
+Task 4:
+Using pointers and the dereference operator, 
+determine the largest of two numbers.
+
+Task 5:
+Using pointers and the dereference operator, 
+determine the sign of a number entered from the keyboard.
+
+Task 6:
+Using pointers and the dereference operator, 
+swap the values ​​of two variables.
+
+Task 7:
+Write a primitive calculator using only pointers.
+
+Task 8:
+Using a pointer to an array of integers, calculate the sum of the elements of the array. 
+Use pointer arithmetic to move through the array in the program, as well as the dereference operator.

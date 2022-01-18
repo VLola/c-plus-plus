@@ -1,0 +1,27 @@
+Task 1:
+In a one-dimensional array filled with random numbers,
+determine the minimum and maximum elements.
+
+Task 2:
+The user enters the firm's profit for the year (12 months). The user then enters a range
+(for example, 3 and 6 - search between the 3rd and 6th month).
+You need to define the month
+in which the profit was maximum and month,
+where the profit was the lowest
+given the selected range.
+
+Task 3:
+In a one dimensional array,
+consisting of N real numbers calculate:
+The sum of the negative elements.
+product of elements,
+located between the min and max elements.
+The product of elements with even numbers.
+The sum of the elements between the first and last negative elements.
+
+Task 4:
+Write a program that copies the elements of an array of size 10 in sequence.
+elements into 2 arrays of 5 elements each.
+
+Task 5:
+Write a program that performs the element-wise sum of two arrays and puts the result into a third array.

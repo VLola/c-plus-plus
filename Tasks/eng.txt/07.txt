@@ -1,0 +1,19 @@
+Topic: Functions. Function overloading
+
+Task 1:
+Write overloaded functions (int, double, char) to perform the following tasks:
+Square matrix initialization;
+Displaying the matrix on the screen;
+Determining the maximum and minimum element on the main diagonal of the matrix;
+Sort elements in ascending order separately for each row of the matrix.
+
+Task 2:
+Write overloaded functions and test them in the main program:
+Finding the maximum value in a one-dimensional array;
+Finding the maximum value in a two-dimensional array;
+Finding the maximum value in a three-dimensional array;
+Finding the maximum value of two integers;
+Finding the maximum value of three integers;
+
+Task 3:
+Modify the programs from the first and second tasks using templates.

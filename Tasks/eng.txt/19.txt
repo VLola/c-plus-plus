@@ -1,0 +1,23 @@
+Task 1.
+Given two text files. Find out if they match
+lines. If not, then output the mismatched string from
+each file.
+
+Task 2.
+Given a text file. Need to create a new file
+and write the following statistics on the source file into it:
+Characters;
+Number of lines;
+Number of vowels;
+Number of consonants;
+Number of digits.
+
+Task 3.
+The Caesar cipher is one of the oldest ciphers. During encryption, each character is replaced by another, spaced apart
+from it in the alphabet by a fixed number of positions.
+Example:
+Encryption using a key: 3.
+Original text: Съешь же ещё этих мягких французских булок, да выпей чаю.
+Cipher text: Фэзыя йз зьи ахлш пвёнлш чугрщцкфнлш дцосн, жг еютзм ъгб.
+Given a text file. Encrypt it using the Caesar cipher.
+Write the result to another file.

@@ -1,0 +1,23 @@
+Task 1.
+Given a text file. Remove the last line from it.
+Write the result to another file.
+
+Task 2.
+Given a text file. Find the length of the longest string.
+
+Task 3.
+Given a text file. Count how many times a user-specified word occurs in it.
+
+Task 4.
+Given a text file. Find and replace given in it
+word. What to look for and what to replace with is determined by the user.
+
+Task 5.
+Create a Simple File Manager program:
+1. Create a new file in the current directory;
+2. Deleting a file from the current directory;
+3. Rename the file in the current directory;
+4. Moving a file from the current directory to the specified
+user directory;
+5. Displaying the contents of a user-specified file
+from the current directory to the screen.

@@ -1,0 +1,13 @@
+Using streams, create a REFERENCE class with the following fields:
+1. Company name;
+2. Owner;
+3. Phone;
+4. Address;
+5. Type of activity.
+Implement the following features:
+1. Search by name;
+2. Search by owner;
+3. Search by phone number;
+4. Search by type of activity;
+5. Show all entries and add.
+All information must be saved in the file, the possibility of adding new data must be implemented.

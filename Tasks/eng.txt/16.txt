@@ -1,0 +1,5 @@
+Create a telephone directory for the following operations:
+Adding subscribers to the database.
+Removing subscribers from the database.
+Subscriber data modification.
+Search for subscribers by phone number or last name.

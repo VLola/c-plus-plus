@@ -1,0 +1,39 @@
+Add the following to the "Singly Linked List" class
+functions: inserting an element at a given position, deleting
+element at a given position, search for a given element (the function returns the position of the found element
+on success or NULL on failure).
+1. Implement the template class "Queue" based on
+doubly linked list.
+2. Create a template container class Array, which
+is an array that can store
+objects of the given type. The class must implement
+the following features:
+A) GetSize - getting the size of the array (number
+elements for which memory is allocated);
+B) SetSize(int size, int grow = 1) - setting the size of the array
+(if the size parameter is greater than the previous size
+array, an additional block of memory is allocated,
+if not, then the "extra" elements are lost and the memory
+freed up);
+the grow parameter determines how many elements to allocate memory for if the number of elements exceeds the current size of the array.
+For example, SetSize(5, 5);
+means that when adding the 6th element, the size
+array becomes equal to 10, when adding
+11th - 15th, etc.;
+C) GetUpperBound - getting the last valid
+index in the array. For example, if with an array size of 10, you add 4 elements to it, then the function will return 3;
+D) IsEmpty - is the array empty?
+E) FreeExtra - remove "extra" memory (above the last valid index);
+F) RemoveAll - remove everything;
+G) GetAt - getting a specific element (by
+index);
+H) SetAt - setting a new value for a specific element (the element index must be
+less than the current size of the array);
+I) operator [] - for the implementation of the two previous
+functions;
+J) Add - adding an element to the array (if necessary, the array is increased by the value of the grow function SetSize);
+K) Append - "addition" of two arrays;
+L) operator =;
+M) GetData - get the address of the array with data;
+N) InsertAt - insert element(s) at a given position
+O) RemoveAt - remove element(s) from a given position
