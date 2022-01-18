@@ -1,0 +1,25 @@
+Task 1:
+ Create an abstract base class Employer
+with a purely virtual Print() function.
+Create three derived classes: President, Manager,
+Worker.Override the Print() function for output
+information relevant to each type of employee.
+
+Task 2:
+ Create base class list.Implement on base
+list stack and queue with virtual functions
+insertion and extraction.
+
+Task 3:
+ Create abstract base class with virtual
+function - area. Create derived classes:
+rectangle, circle, right triangle,
+trapezium with its area functions. To check
+ki define an array of references to an abstract class,
+which are assigned addresses of various objects.
+
+Task 4:
+ Create abstract base class with virtual
+function - the roots of the equation. Create derivatives
+classes : class of linear equations and class of square
+equations. Define the calculation function

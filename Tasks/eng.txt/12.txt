@@ -1,0 +1,33 @@
+Topic: Structures
+
+Task 1:
+Create a structure describing a complex number. Implement Arithmetic Operations
+with complex numbers: sum, difference, multiplication, division.
+
+Task 2:
+Implement the "Car" structure (length, ground clearance (seat height), engine size, engine power, wheel diameter, color, gearbox type). Create functions to set values, display values, look up values.
+
+Task 3:
+Develop a library program. Create a "Book" structure (title, author, publisher, genre).
+Create an array of 10 books.
+Implement the following options for it:
+Edit book
+Print all books
+Search books by author
+Book search by title
+Sorting an array by book title
+Sort array by author
+Sorting the array by publisher
+
+Task 4:
+Implement the "Machine" structure (color, model, number). The machine number may represent
+yourself or a five-digit number or a word up to 8 characters long.
+Recommendations: implement the number as a union.
+Create an instance of the "Machine" structure and implement the following functions for it:
+Filling machine
+Printing machine
+Create an array of 10 instances of the "Machine" structure and implement the following for it
+features:
+Edit car
+Print all machines
+Car search by number

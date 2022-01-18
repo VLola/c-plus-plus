@@ -1,0 +1,31 @@
+Topic: Functions
+
+Task 1:
+Write a function that takes two parameters:
+base and exponent,
+and calculates the degree of the number based on the received data.
+
+Task 2:
+Write a function that takes 2 integers as parameters and returns the sum of numbers from the range between them.
+
+Task 3:
+The number is called perfect
+if the sum of all its divisors is equal to itself.
+Write a function to find such numbers in the given interval.
+
+Task 4:
+Write a function that displays the playing card passed to it.
+
+Task 5:
+Write a function that determines if a six-digit number is "lucky".
+
+Task 6:
+Write a function that takes two dates (i.e. the function takes six parameters) and calculates the difference in days between those dates.
+To solve this problem, it is also necessary
+write a function that determines if the year is a leap year.
+
+Task 7:
+Write a function that determines the arithmetic mean of the elements of the array passed to it.
+
+Task 8:
+Write a function that determines the number of positive, negative and zero elements of the array passed to it.

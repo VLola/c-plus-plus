@@ -1,0 +1,56 @@
+Topic: Multidimensional arrays
+
+Task 1:
+Write a program that creates a two-dimensional array and fills it in the following way:
+the user enters a number (for example, 3) the first element of the array takes the value of this number,
+the next element of the array takes on the value of that number
+multiplied by 2 (i.e. 6 for our example),
+the third element of the array is the previous element,
+multiplied by 2 (i.e. 6*2=12 for our example).
+Display the created array.
+
+Task 2:
+Write a program that creates a two-dimensional array and fills it with the following
+principle: the user enters a number (for example, 3) the first element of the array takes
+the value of this number, the next element of the array takes the value of this number + 1 (i.e. 4
+for our example), the third element of the array is the previous element + 1 (i.e. 5 for our
+example). Display the created array.
+
+Task 3:
+Create a 2D array.
+Fill it with random numbers and show it on the screen.
+The user selects the number of shifts and position (left, right, up, down).
+Shift the array and display the result on the screen. The shift is cyclic.
+For example, if we have the following array
+ 1 2 0 4 5 3
+ 4 5 3 9 0 1
+ and the user has chosen to shift 2 digits to the right, we get
+ 5 3 1 2 0 4
+ 0 1 4 5 3 9
+ 
+Task 4:
+In a two-dimensional array of integers, calculate:
+The sum of all array elements
+Arithmetic mean of all array elements
+Minimum element
+Maximum element
+
+Task 5:
+In a two-dimensional array of integers, calculate the sum of the elements: in each row;
+in each column;
+simultaneously for all rows and all columns.
+Set up as follows:
+ 3 5 6 7 | 21
+ 12 1 1 1 | 15
+ 0 7 12 1 | 20
+ --------------
+15 3 19 9 | 56
+
+Task 6:
+Write a program that declares a 5x10 array and a 5x5 array.
+The first array is filled with random numbers,
+in the range from 0 to 50.
+The second array is filled in the following way:
+the first element of the second array is equal to the sum of the first
+and the second element of the first array,
+the second element of the second array is equal to the sum of the third and fourth element of the first array.

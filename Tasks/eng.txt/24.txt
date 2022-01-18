@@ -1,0 +1,26 @@
+Task 1.
+Create an application for a car dealership. Necessary
+store information about cars sold
+(name, year of manufacture, engine size, price). Implement
+interface for adding data, deleting data,
+data display, data sorting by various
+parameters, data search by various parameters.
+When implementing, use containers, functors
+and algorithms.
+
+Task 2.
+A vector container holds a set of integers.
+Create functors to solve the following problems:
+1. Finding the minimum value;
+2. Search for the maximum value;
+3. Sort data in descending order;
+4. Sort data in ascending order;
+5. Increasing the values ​​in the container by a given constant;
+6. Reducing the values ​​in the container by a given constant;
+7. Removing elements from the container equal to the desired value.
+Don't forget to use algorithms where necessary.
+
+Task 3.
+Change the functors from the first assignment to template ones
+functor classes. Check the work of the resulting solution
+on different containers with different contents.

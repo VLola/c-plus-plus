@@ -1,0 +1,13 @@
+Task 1.
+Add to an already existing class String constructor
+transfer, transfer assimilation operator.
+
+Task 2.
+Add a constructor to an already existing Array class
+transfer, transfer assimilation operator.
+
+Task 3.
+Implement the Array class by changing the normal overloads
+operators where possible. Also, implement (using
+unwanted overload) situations like:
+Number+class_object. 

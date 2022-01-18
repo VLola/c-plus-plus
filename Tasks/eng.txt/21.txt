@@ -1,0 +1,15 @@
+Task 1.
+Add an exception handling mechanism to the doubly linked list class. Throw exceptions of your choice
+in case of errors. For example, lack of memory, attempt
+removal from an empty list, etc.
+
+Task 2.
+Create a hierarchy of custom exception classes. It should have classes for different situations. Use your practice and homework assignments as the subject area. For example, there should be classes to handle all sorts of math errors, out of memory, file handling problems, and so on.
+
+Task 3.
+As part of the previous self-study and homework assignments, you created a set of classes for working with various
+primitive mathematical operations (fraction,
+point in two-dimensional space, point in three-dimensional space, etc.). Place already created classes in
+namespaces. Think of the right structure
+created spaces. Using the mechanism of spaces
+write code to test the resulting solution.

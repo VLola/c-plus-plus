@@ -1,0 +1,20 @@
+Topic: Multidimensional dynamic arrays
+
+Task 1:
+Write a function that adds a column to a two-dimensional array at a specified position.
+
+Task 2:
+Write a function that removes a column of a two-dimensional array at the specified number.
+
+Task 3:
+Given a matrix of order MxN (M rows, N columns). 
+It is necessary to fill it with values ​​and write a function that performs
+a cyclic shift of rows and/or columns of the array a specified number of times and in the specified direction.
+ 
+Task 4:
+Matrix transposition is an operation after which the columns of the previous matrix become rows, 
+and the rows become columns. Write a matrix transpose function.
+
+Task 5:
+Create a dynamic array that stores the name on the first line and the phone number on the second line. 
+Organize searches by name and phone number and the ability to enter and change data.

@@ -1,0 +1,46 @@
+Topic: Introduction to the "C" programming language
+
+Task 1: 
+Display one verse of your favorite poem or song on the screen, indicating
+author or performer. Use escape sequences for formatting.
+
+Task 2: 
+Display the verse "Every hunter wants ..." so that each "color"
+started with a new line and the appropriate number of tabs.
+
+Task 3: 
+Write an advertisement for the sale of something and display it on the screen, in the form
+how it should be printed.
+For instance:
+Selling puppies.
+Breed: Rottweiler.
+
+Tel.: 222-22-22
+etc.
+
+Task 4: 
+Three resistances R1, R2, R3 are given. Calculate the resistance value R0 from
+formula: 1/R0 = 1/R1+1/R2+1/R3.
+
+Test case: R1=2, R2=4, R3=8 R0 = 1.142857
+
+Task 5:
+For a given circumference, find the area of ​​​​a circle using the formula S = pi*R2, radius
+calculate from the circumference formula: L=2*pi *R
+Note: pi = 3.14
+
+Task 6:
+Calculate the distance traveled during rectilinear uniformly accelerated motion
+according to the formula S = v*t + (a*t2) / 2, where v is the speed, t is the time, and is the acceleration.
+
+Task 7:
+The user enters from the keyboard the distance to the airport and the time for which you need to get there.
+Calculate the speed with which he needs to go.
+
+Task 8:
+The user enters the start time and end time of a telephone conversation from the keyboard
+(hours, minutes and seconds). Calculate the cost of a call if the cost of a minute is 30 cents.
+
+Task 9:
+The user enters from the keyboard the distance, gas consumption per 100 km and the cost of three
+types of gasoline. Display a comparison table with the cost of a trip on different types of gasoline.

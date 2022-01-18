@@ -1,0 +1,48 @@
+Topic: Cycles
+
+Task 1: 
+Display figures filled with asterisks on the screen. To implement a dialogue with the user using the menu.
+
+Task 2: 
+Count the number of integers in the range from 100 to 999 that have two identical digits
+
+Task 3: 
+Count the number of integers in the range from 100 to 999 in which all digits are different
+
+Task 4: 
+The user enters any integer. It is necessary to remove from this integer
+all numbers 3 and 6 and display back on the screen.
+
+Task 5: 
+The user enters any integer A. It is necessary to display all the integers B,
+for which A is divisible without remainder by B*B
+and do not divide without a remainder by B * B * B
+
+Task 6: 
+The user enters an integer A.
+The program must determine
+that the cube of the sum of the digits of this number is A * A
+
+Task 7: 
+The user enters an integer.
+You need to display all integers,
+by which the given number is divisible without a remainder.
+
+Task 8: 
+The user enters two integers.
+You need to display all integers,
+by which both entered numbers are divisible without a remainder.
+
+Task 9:
+The user enters a number. Determine the number of digits in this number, calculate their sum and arithmetic mean. Determine the number of zeros in this number.
+Communicate with the user through the menu.
+
+Task 10:
+Write a program that displays a chessboard with a given cell size.
+For instance:
+***---***---***---***---
+***---***---***---***---
+***---***---***---***---
+---***---***---***---***
+---***---***---***---***
+---***---***---***---***

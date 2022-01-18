@@ -1,0 +1,38 @@
+Topic: Cycles
+
+Task 1: 
+Write a program that calculates the sum of integers from a to 500 (the value of a is entered from the keyboard).
+
+Task 2: 
+Write a program that asks for two integers x and y, after which
+calculates and prints the value of x to the power of y.
+
+Task 3:
+Find the arithmetic mean of all integers from 1 to 1000.
+
+Task 4:
+Find the product of all integers from a to 20 (the value of a is entered from the keyboard:
+1 <=a <= 20).
+
+Task 5:
+Write a program that displays the multiplication table for k,
+where k is the variant number. For example, for the 7th option:
+ 7 x 2 = 14
+ 7 x 3 = 21
+
+Task 6:
+Display all numbers from zero to the number entered by the user.
+
+Task 7:
+The user enters two limits of the range, display all the numbers from this
+range. Provide for the user to enter range boundaries in any order.
+print all even numbers from the range.
+print all odd numbers from the range.
+print all numbers that are multiples of seven.
+
+Task 8:
+The user enters two range limits. Calculate the sum of all numbers in the range.
+
+Task 9:
+The user enters numbers from the keyboard. Calculate their sum and display on the screen,
+as soon as the user enters zero.

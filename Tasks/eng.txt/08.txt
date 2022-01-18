@@ -1,0 +1,19 @@
+Topic: Sorting arrays
+
+Task 1:
+Write a program that sorts a one-dimensional array of integers using bubble sort.
+
+Task 2.
+Write a program that sorts a one-dimensional array of integers using the insertion method.
+
+Task 3.
+Write a success program. The user enters 10 student grades.
+Implement a menu for the user.
+Output ratings (output the contents of the array).
+Retake the exam (the user enters the number of the array element and a new grade).
+Does the scholarship come out (the scholarship comes out if the average score is not lower than 10.7).
+
+Task 4.
+Sort the first two thirds of the array in ascending order,
+if the arithmetic mean of all elements is greater than zero; otherwise, only the first third.
+The rest of the array is not sorted, but arranged in reverse order.

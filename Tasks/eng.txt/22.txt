@@ -1,0 +1,3 @@
+Write a program that solves a Japanese crossword called "Sudoku".
+The user enters initial values already existing in the crossword,
+which needs to be solved, and the program displays the finished result on the screen.

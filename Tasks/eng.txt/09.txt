@@ -1,0 +1,32 @@
+Topic: Recursion.
+
+Task 1:
+Write a recursive function to find the greatest common divisor of two integers.
+
+Task 2:
+Write a game "Bulls and Cows". The program "guesses" a four-digit number and the player must guess it.
+After the user enters a number, the program reports how many digits of the number are guessed (bulls)
+and how many numbers are guessed and are in the right place (cows). After guessing the number, it is necessary to display the number of attempts made by the user on the screen.
+The program must use recursion.
+
+Task 3:
+Given an 8x8 chessboard and a chess horse. The program should ask the user for the coordinates of the field cell and place the horse there.
+The task of the program is to find and display the path of the knight, in which he will bypass all the cells of the board, entering each cell only once.
+(Since the process of finding a path for different initial cells can be delayed, it is recommended that you first try out the problem on a 6x6 field).
+The program must use recursion.
+
+Task 4:
+Write a recursive function for finding the degree of a number.
+
+Task 5:
+Write a recursive function that displays N stars in a row, the number N is specified by the user.
+Illustrate how the function works with an example.
+
+Task 6:
+Write a recursive function that calculates the sum of all numbers between a and b.
+The user enters a and b. Illustrate how the function works with an example.
+
+Task 7:
+Write a recursive function that takes a one-dimensional array of 100 integers,
+randomly filled in and finds the position
+with which the sequence of 10 numbers begins, the sum of which is minimal.
