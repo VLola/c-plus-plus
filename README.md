@@ -189,10 +189,15 @@ Fill it with random numbers and show it on the screen.
 The user selects the number of shifts and position (left, right, up, down).
 Shift the array and display the result on the screen. The shift is cyclic.
 For example, if we have the following array
+
  1 2 0 4 5 3
+
  4 5 3 9 0 1
+
  and the user has chosen to shift 2 digits to the right, we get
+
  5 3 1 2 0 4
+
  0 1 4 5 3 9
  
 - ##### Task 4:
@@ -210,8 +215,11 @@ Set up as follows:
 
 
 03 05 06 07 | 21
+
 12 01 01 01 | 15
+
 00 07 12 01 | 20
+
 15 03 19 09 | 56
 
 

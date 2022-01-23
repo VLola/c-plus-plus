@@ -90,37 +90,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rus.txt", "rus.txt", "{AC65
 		Tasks\rus.txt\27.txt = Tasks\rus.txt\27.txt
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rus.png", "rus.png", "{011CBE58-BEB0-4ACC-BF35-CAB503B7C88F}"
-	ProjectSection(SolutionItems) = preProject
-		Tasks\rus.png\01.png = Tasks\rus.png\01.png
-		Tasks\rus.png\02.png = Tasks\rus.png\02.png
-		Tasks\rus.png\03.png = Tasks\rus.png\03.png
-		Tasks\rus.png\04.png = Tasks\rus.png\04.png
-		Tasks\rus.png\05.png = Tasks\rus.png\05.png
-		Tasks\rus.png\06.png = Tasks\rus.png\06.png
-		Tasks\rus.png\07.png = Tasks\rus.png\07.png
-		Tasks\rus.png\08.png = Tasks\rus.png\08.png
-		Tasks\rus.png\09.png = Tasks\rus.png\09.png
-		Tasks\rus.png\10.png = Tasks\rus.png\10.png
-		Tasks\rus.png\11.png = Tasks\rus.png\11.png
-		Tasks\rus.png\12.png = Tasks\rus.png\12.png
-		Tasks\rus.png\13.png = Tasks\rus.png\13.png
-		Tasks\rus.png\14.png = Tasks\rus.png\14.png
-		Tasks\rus.png\15.png = Tasks\rus.png\15.png
-		Tasks\rus.png\16.png = Tasks\rus.png\16.png
-		Tasks\rus.png\17.png = Tasks\rus.png\17.png
-		Tasks\rus.png\18.png = Tasks\rus.png\18.png
-		Tasks\rus.png\19.png = Tasks\rus.png\19.png
-		Tasks\rus.png\20.png = Tasks\rus.png\20.png
-		Tasks\rus.png\21.png = Tasks\rus.png\21.png
-		Tasks\rus.png\22.png = Tasks\rus.png\22.png
-		Tasks\rus.png\23.png = Tasks\rus.png\23.png
-		Tasks\rus.png\24.png = Tasks\rus.png\24.png
-		Tasks\rus.png\25.png = Tasks\rus.png\25.png
-		Tasks\rus.png\26.png = Tasks\rus.png\26.png
-		Tasks\rus.png\27.png = Tasks\rus.png\27.png
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eng.txt", "eng.txt", "{86F61F42-0B15-4E99-9D9C-AFD6BE03AE01}"
 	ProjectSection(SolutionItems) = preProject
 		Tasks\eng.txt\01.txt = Tasks\eng.txt\01.txt
@@ -387,7 +356,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AC651091-6B64-4E0E-80C4-D495C39CAE64} = {610C67DC-237B-4F1C-B5D6-50811BB74D5F}
-		{011CBE58-BEB0-4ACC-BF35-CAB503B7C88F} = {610C67DC-237B-4F1C-B5D6-50811BB74D5F}
 		{86F61F42-0B15-4E99-9D9C-AFD6BE03AE01} = {610C67DC-237B-4F1C-B5D6-50811BB74D5F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
